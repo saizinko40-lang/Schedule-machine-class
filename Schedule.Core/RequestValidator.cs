@@ -35,4 +35,4 @@ namespace Schedule.Core
             return true;
         }
     }
-} 
+}

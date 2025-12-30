@@ -71,4 +71,4 @@ namespace Schedule.ConsoleApp
                 $"{r.GroupName} | Priority {r.GroupPriority} | {r.TeacherName}");
         }
     }
-} 
+}

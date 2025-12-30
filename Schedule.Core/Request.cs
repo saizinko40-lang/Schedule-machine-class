@@ -20,4 +20,4 @@ namespace Schedule.Core
 
         public string TeacherName { get; set; }
     }
-} 
+}

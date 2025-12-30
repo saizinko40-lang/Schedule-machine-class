@@ -71,4 +71,4 @@ namespace Schedule.Core
             return a.StartTime < b.EndTime && b.StartTime < a.EndTime;
         }
     }
-} 
+}
