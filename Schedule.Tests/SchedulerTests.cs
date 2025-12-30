@@ -104,4 +104,4 @@ namespace Schedule.Tests
             Assert.IsFalse(validator.IsValid(request));
         }
     }
-}
+} 
